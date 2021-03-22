@@ -8,4 +8,4 @@ VAMP resumes the playing of music.
 
 # To use
 
-Download the files "new program" and "templates". Install dependencies and run the py script.
+Download the files "new program" and "templates". Install dependencies and run GUI.py.
